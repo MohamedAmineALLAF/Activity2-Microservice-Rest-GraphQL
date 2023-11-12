@@ -30,7 +30,7 @@ The GraphQL connector offers a GraphQL API for flexible and efficient querying o
 ## Screenshots
 
 ### Swagger UI (Restful Connector)
-- **Swagger UI - Get All Accounts**: ![Swagger UI - Get All Accounts](screenshots/swagger-ui.jpg)
+- **Swagger UI - Get All Accounts**: ![Swagger UI - Get All Accounts](screenshots/text-swagger-get-all-accounts.jpg)
 - **Swagger UI - Get Account by ID**: ![Swagger UI - Get Account by ID](screenshots/get-account-by-id-test.jpg)
 
 ### GraphQL Playground (GraphQL Connector)
